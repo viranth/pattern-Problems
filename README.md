@@ -1,6 +1,8 @@
 # pattern-Problems
 This is solving solving the different type of Pattern printing.
 
+Output Belike in solving the pattern printing
+
 
 Enter the numbers of rows : 
 5
